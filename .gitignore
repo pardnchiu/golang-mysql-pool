@@ -1,0 +1,6 @@
+my.cnf
+init.sql
+logs/*
+example/*
+.DS_Store
+docker-compose.yml
