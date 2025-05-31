@@ -1,7 +1,9 @@
 # MySQL Pool (Golang)
 
-> A high-performance MySQL connection pool implementation with read-write separation, query builder, and comprehensive logging functionality.<br>
-> Features dual connection pools, slow query monitoring, and automatic resource management.
+> A high-performance MySQL connection pool implementation focusing on chainable syntax, high readability, native methods, and ultra-fast query performance.<br>
+> Features read-write separation, query builder, comprehensive logging, and automatic resource management.<br>
+> version Node.js can get [here](https://github.com/pardnchiu/nodejs-mysql-pool)<br>
+> version PHP can get [here](https://github.com/pardnchiu/php-mysql-pool)
 
 [![version](https://img.shields.io/github/v/tag/pardnchiu/golang-mysql-pool)](https://github.com/pardnchiu/golang-mysql-pool)
 
